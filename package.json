@@ -1,0 +1,28 @@
+{
+  "name": "wmgb",
+  "version": "0.5.0",
+  "description": "WMG Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test bot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "add late"
+  },
+  "keywords": [
+    "fb",
+    "messenger",
+    "bot",
+    "node",
+    "heroku"
+  ],
+  "author": "aravinds",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "firebase": "^3.7.4",
+    "request": "^2.79.0"
+  }
+}
